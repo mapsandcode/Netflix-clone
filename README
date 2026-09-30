@@ -44,7 +44,7 @@ netflix-clone/
 
 1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI-ADI/netflix-clone.git
+   git clone https://github.com/mapsandcode/netflix-clone.git
    ```
 2. `images/` klasörünün `index.html` ile aynı dizinde olduğundan emin olun.
 3. `index.html` dosyasını bir tarayıcıda açmanız yeterli — herhangi bir build veya kurulum adımı gerekmez.
