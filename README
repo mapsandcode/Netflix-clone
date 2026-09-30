@@ -1,0 +1,74 @@
+# 🎬 Netflix Clone
+
+HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasından esinlenen responsive bir arayüz projesi. Görsel bir hero alanı, e-posta ile başlama formu, cihaz/özellik tanıtım bölümleri, sıkça sorulan sorular ve footer içerir.
+
+## ✨ Özellikler
+
+- **Hero Alanı** — Tam ekran arka plan görseli, koyu katman (overlay), başlık, açıklama metinleri ve e-posta girişi ile "Başlayın" butonu
+- **Navbar** — Sol tarafta logo, sağ tarafta dil seçimi ve "Oturum Aç" butonları; hover'da renk geçiş animasyonu
+- **Bilgi Alanları** — Görsel ve metnin sağlı sollu dönüşümlü sıralandığı 4 tanıtım bölümü (TV, mobil indirme, cihazlar, çocuk profilleri)
+- **Video Efekti** — TV görselinin içinde otomatik oynayan, sessiz ve döngüde çalışan videolar
+- **Sıkça Sorulan Sorular** — Hover efektli soru kutuları
+- **Footer** — İletişim metni ve 4 sütunlu bağlantı alanı; bağlantılar üzerine gelince renk değişimi
+- **Ayıraçlar** — Bölümler arasında Netflix'e özgü kalın gri çizgiler
+- **Responsive Tasarım** — 1000px ve 700px kırılma noktalarıyla tablet ve mobil uyumlu görünüm
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **HTML5** — Sayfa yapısı
+- **CSS3** — Flexbox, `position` ile katmanlama, `transition` animasyonları ve `@media` sorguları ile responsive tasarım
+
+## 📁 Proje Önizleme
+
+| Masaüstü | Mobil |
+| -------- | ----- |
+| ![Masaüstü Önizleme](screenshots/desktop-preview.jpg) | ![Mobil Önizleme](screenshots/mobile-preview.jpg) |
+
+## 📁 Proje Yapısı
+
+```
+netflix-clone/
+├── index.html          # Ana sayfa
+├── style.css           # Tüm stil dosyası
+└── images/
+    ├── logo1.png
+    ├── banner.jpg              # Hero arka plan görseli
+    ├── tv.png
+    ├── mobile.jpg
+    ├── child.png
+    ├── video-tv-0819.m4v       # TV bölümü videosu
+    └── video-devices.m4v       # Cihazlar bölümü videosu
+```
+
+## 🚀 Kurulum ve Çalıştırma
+
+1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
+   ```bash
+   git clone https://github.com/KULLANICI-ADI/netflix-clone.git
+   ```
+2. `images/` klasörünün `index.html` ile aynı dizinde olduğundan emin olun.
+3. `index.html` dosyasını bir tarayıcıda açmanız yeterli — herhangi bir build veya kurulum adımı gerekmez.
+
+## 🎯 Kullanım
+
+- Sayfayı yukarı aşağı kaydırarak tüm tanıtım bölümlerini inceleyebilirsiniz.
+- Butonların ve footer bağlantılarının üzerine gelerek hover efektlerini görebilirsiniz.
+- Tarayıcı penceresini küçülterek veya mobil görünüme geçerek responsive yapıyı test edebilirsiniz.
+
+## 📌 Geliştirme Fikirleri
+
+- [ ] SSS kutularına tıklayınca cevabın açılıp kapanması (JavaScript ile accordion)
+- [ ] E-posta alanı için doğrulama (validation)
+- [ ] Dil seçimi butonunun çalışır hale getirilmesi
+- [ ] "Oturum Aç" için ayrı bir giriş sayfası
+- [ ] Görsellerin ve videoların lazy loading ile yüklenmesi
+- [ ] Erişilebilirlik için görsellere anlamlı `alt` metinleri eklenmesi
+
+## 📄 Lisans
+
+Bu proje kişisel/eğitim amaçlı geliştirilmiştir. Netflix adı, logosu ve içerikleri ilgili hak sahiplerine aittir.
+
+## 👤 Geliştirici
+
+**GitHub:** [@mapsandcode](https://github.com/mapsandcode)
+**LinkedIn:** [Fatmanur Çağlar](https://www.linkedin.com/in/fatmanurcaglar/)
