@@ -25,15 +25,22 @@ HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasınd
     <td width="70%" align="center" valign="top">
       <h4>🖥️ Masaüstü Görünümü</h4>
       <!-- Masaüstü görselini buraya sürükleyip bırakın -->
-      <img src="screenshots/desktop.png" alt="Masaüstü Önizleme" width="100%">
+      <img src="screenshot/desktop.png" alt="Masaüstü Önizleme" width="100%">
     </td>
     <td width="30%" align="center" valign="top">
       <h4>📱 Mobil Görünümü</h4>
       <!-- Mobil görselini buraya sürükleyip bırakın -->
-      <img src="screenshots/mobile.png" alt="Mobil Önizleme" width="100%">
+      <img src="screenshot/mobile.png" alt="Mobil Önizleme" width="100%">
     </td>
   </tr>
 </table>
+
+## 📁 Proje Önizleme2
+
+| Masaüstü | Mobil |
+| -------- | ----- |
+| ![Masaüstü Önizleme](screenshot/desktop.png) | ![Mobil Önizleme](screenshot/mobile.png) |
+
 
 ## 🎥 Canlı Demo
 
@@ -41,7 +48,7 @@ HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasınd
 
 | Masaüstü | Mobil |
 | -------- | ----- |
-| ![Masaüstü Önizleme](screenshots/desktop-preview.jpg) | ![Mobil Önizleme](screenshots/mobile-preview.jpg) |
+| ![Masaüstü Önizleme](screenshot/desktop.png) | ![Mobil Önizleme](screenshot/mobile.png) |
 
 ## 📁 Proje Yapısı
 
