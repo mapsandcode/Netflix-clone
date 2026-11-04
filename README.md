@@ -26,7 +26,7 @@ HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasınd
 
 ### 🎬 Canlı Demo
 
-![Site Demo](Screenshot/demo.gif)
+![Site Demo](Screenshot/netflix.gif)
 
 
 ## 📁 Proje Yapısı
