@@ -20,6 +20,25 @@ HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasınd
 
 ## 📁 Proje Önizleme
 
+<table width="100%">
+  <tr>
+    <td width="70%" align="center" valign="top">
+      <h4>🖥️ Masaüstü Görünümü</h4>
+      <!-- Masaüstü görselini buraya sürükleyip bırakın -->
+      <img src="screenshots/desktop.png" alt="Masaüstü Önizleme" width="100%">
+    </td>
+    <td width="30%" align="center" valign="top">
+      <h4>📱 Mobil Görünümü</h4>
+      <!-- Mobil görselini buraya sürükleyip bırakın -->
+      <img src="screenshots/mobile.png" alt="Mobil Önizleme" width="100%">
+    </td>
+  </tr>
+</table>
+
+## 🎥 Canlı Demo
+
+![Netflix Clone canlı demo](Screenshot/netflix.gif)
+
 | Masaüstü | Mobil |
 | -------- | ----- |
 | ![Masaüstü Önizleme](screenshots/desktop-preview.jpg) | ![Mobil Önizleme](screenshots/mobile-preview.jpg) |
@@ -43,7 +62,7 @@ netflix-clone/
 ## 🚀 Kurulum ve Çalıştırma
 
 1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
-   ```bash
+ ```bash
    git clone https://github.com/mapsandcode/netflix-clone.git
    ```
 2. `images/` klasörünün `index.html` ile aynı dizinde olduğundan emin olun.
