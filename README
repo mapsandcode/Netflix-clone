@@ -20,13 +20,14 @@ HTML ve CSS ile geliştirilmiş, Netflix'in Türkiye giriş (landing) sayfasınd
 
 ## 📁 Proje Önizleme
 
-| Masaüstü | Mobil |
-| -------- | ----- |
-| ![Masaüstü Önizleme](Screenshot/desktop.png) | ![Mobil Önizleme](Screenshot/mobile.png) |
+| Masaüstü                                            | Mobil                                         |
+| --------------------------------------------------- | --------------------------------------------- |
+| ![Masaüstü Önizleme](Screenshot/desktop.jpeg) | ![Mobil Önizleme](Screenshot/mobile.jpeg) |
 
-## 🎥 Animasyonlu Önizleme
+### 🎬 Canlı Demo
 
-![Netflix Clone animasyonlu önizleme](Screenshot/netflix.gif)
+![Site Demo](Screenshot/demo.gif)
+
 
 ## 📁 Proje Yapısı
 
